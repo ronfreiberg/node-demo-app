@@ -39,5 +39,5 @@ spec:
   selector:
     app: demo-app
   type: NodePort
-  # trigger commit ffkkdd
+  # trigger commit ffkk
 
